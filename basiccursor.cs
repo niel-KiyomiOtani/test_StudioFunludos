@@ -23,4 +23,6 @@ public class basiccursor : MonoBehaviour
             GetComponent<Transform>().Translate(new Vector3(0.1f, 0, 0));
         }
     }
+
+    //テスト用。これで書き変わったってことになるかなぁ
 }
